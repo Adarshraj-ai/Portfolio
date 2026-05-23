@@ -41,13 +41,12 @@ An MSc Computer Science student at Pondicherry University passionate about build
 🤖 Machine Learning Projects
 🔗 Connect With Me
 GitHub: https://github.com/Adarshraj-ai
-LinkedIn: https://www.linkedin.com/in/adarsh-raj-b87942325
 Email: adarshmass111b@gmail.com
 🚀 Getting Started
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Adarshraj-ai/Portfolio.git
 
 Open the project folder:
 
