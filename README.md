@@ -42,6 +42,7 @@ An MSc Computer Science student at Pondicherry University passionate about build
 🔗 Connect With Me
 GitHub: https://github.com/Adarshraj-ai
 Email: adarshmass111b@gmail.com
+linkedin : https://www.linkedin.com/in/adarsh-singh-b87942325/
 🚀 Getting Started
 
 Clone the repository:
